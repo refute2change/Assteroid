@@ -8,3 +8,6 @@ link:
 
 clean:
 	rm *.o
+
+run:
+	./Asteroid

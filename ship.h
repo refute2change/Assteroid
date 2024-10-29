@@ -4,5 +4,8 @@
 
 class ship
 {
-
+private:
+    int x, y;
+public:
+    ship();
 };
